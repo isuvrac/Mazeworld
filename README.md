@@ -21,7 +21,7 @@ Researchers are currently collecting pilot test data and analyzing it through st
 ## How to get involved
 We are conducting a study to help evaluate a testbed for a video game.  If you participate, you will conduct a task where you work as a team with other players to complete a task in a 3d maze in Unity. Then you will experience a series of questions about your experience. The compensation scheme may be the following options: no compensation, $10/participant, or each participant gets a chance to win one of several $25 gift cards. For this iteration, compensation is dependent on performance but will be paid out in a $10 Amazon e-gift card if you perform better than (50% of participants). Overall participation lasting approximately 1 hour. You will also be asked to complete questionnaires about participation, stress, teamwork, and workload. To participate in the study, you must be 18 years of age or older and have access to a desktop or laptop computer connected to the internet. You should not participate if you have any physical conditions that would prevent you from performing a computer game. Participants will be excluded if they are unable to use a keyboard or if they have vision loss that isn't corrected (by glasses, contacts, hearing aids, etc.)
 
-### <a target="_blank" href="https://iastate.qualtrics.com/jfe/form/SV_3UBNJ7Gw4AWWhTw" title="Sign up">Click here to sign up!!</a>
+### <a href="https://iastate.qualtrics.com/jfe/form/SV_3UBNJ7Gw4AWWhTw" target="_blank" title="Sign up">Click here to sign up!!</a>
 ## The Research Team
 *The Research Team consists of 2 ISU professors and 2 undergraduate students*
 <p align="center">
