@@ -26,11 +26,19 @@ We are conducting a study to help evaluate a testbed for a video game.  If you p
 *The Research Team consists of 2 ISU professors and 2 undergraduate students*
 <p align="center">
 <img src="https://user-images.githubusercontent.com/27035181/112413094-9c28f600-8ced-11eb-99fa-fbe625ade77c.JPG" width="300" height="300"/>
+<img src="https://user-images.githubusercontent.com/41304994/118190116-7ff52b80-b3f7-11eb-82cc-87833587fbcb.jpg" width="300" height="300"/>
 </p>
 
-Elizabeth Cavanah is one of the undergraduate students focusing on Metrics and the recruitment/ logistics of the research
-She is a 5th-year student at Iowa State University in the Department of Industrial and Manufacturing Systems Engineering at Iowa State University. Her current research involves predicting team behaviors and the effects of an agent within a team. Other projects of hers include adaptive training for stressors and biomechanics within a system.
-
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Elizabeth Cavanah</b></td>
+    <td><b style="font-size:30px">Jonathan Segal</b></td>
+ </tr>
+ <tr>
+    <td>Elizabeth Cavanah is one of the undergraduate students focusing on Metrics and the recruitment/ logistics of the research She is a 5th-year student at Iowa State University in the Department of Industrial and Manufacturing Systems Engineering at Iowa State University. Her current research involves predicting team behaviors and the effects of an agent within a team. Other projects of hers include adaptive training for stressors and biomechanics within a system.</td>
+    <td>Jonathan Segal is one of the undergraduate students focusing on the development and anylitics of the research he is a 3th-year student at Iowa State University majoring in Software Engineering at Iowa State University. His current research involves predicting team behaviors and the effects of an agent within a team. Other projects of his include adaptive training for stressors and biomechanics within a system.</td>
+ </tr>
+</table>
 
 ### Questions
 Email: <Mazeworld@iastate.edu>
