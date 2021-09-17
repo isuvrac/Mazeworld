@@ -206,16 +206,37 @@
             var r2 = document.getElementById("r2");
 
 
-            const obj = { "meta": { "version": version.value, "build": build.value } };
+            const obj = {
+                "meta": { "version": version.value, "build": build.value },
+                "parameters": {
+                    "tacticalExplorerLimit": tel,
+                    "numOfCollectors": noc,
+                    "logFileSampleRate": lfsr,
+                    "timeLimit": tl,
+                    "mazeNumber": mn,
+                    "totalCoins": tc,
+                    "activatedCoins": ac,
+                    "totalDoors": td,
+                    "doorsCloseAutomatically": dca,
+                    "doorCloseTime": dct,
+                    "coinsCollectedStop": ccs,
+                    "showObserver": so
+                },
+                "research": {
+                    "researcher1": r1,
+                    "researcher2": r2
+                },
+                "logs": {
 
-            $.ajax({
-                type: "POST",
-                url: "serverUrl",
-                data: obj,
-                success: function () { },
-                dataType: "json",
-                contentType: "application/json"
-            });
+                }
+            };
+
+            var a = document.createElement("a");
+            var stringifyjson = JSON.stringify(obj);
+            var file = new Blob([stringifyjson], { type: "text/plain" });
+            a.href = URL.createObjectURL(file);
+            a.download = "data.json";
+            a.click();
         }
     </script>
 </body>
