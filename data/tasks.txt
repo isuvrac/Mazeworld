@@ -1,0 +1,23 @@
+(T.1) The amount of time the Explorer was not checking on the Collector
+(T.2) The amount of time that the Collector is following Explorer
+
+* (A.1) Number of coins collected
+(A.2) Time where the wall does not inhibit movement
+- (Yvonne) (A.3) Number of game-activated coins collected
+- (Yvonne) (A.4) Number of Explorer-activated coins
+
+(SA.1) Amount of time not trying to open ”dead” doors
+(SA.2) Amount of time not waiting at doors
+
+- (Rick) (E.1) Coins collected per minute
+(E.2) Amount of time players spend in the same room
+(E.3) Amount of time with interaction
+- (Rick_ todo) (E.4) Number of coin groups collected
+- (Rick) (E.5) Number of unique doors opened
+
+* (W.1) How many doors were opened in total (including repeats)
+- (Yvonne) (W.2) The number of Explorer-activated coins collected
+(W.3) Percentage of the maze explored
+
+* Distance between collector and explorer
+- (Rick) Coins collected at a certian time
